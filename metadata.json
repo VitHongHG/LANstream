@@ -1,0 +1,8 @@
+{
+  "name": "LAN Video Streamer",
+  "description": "A simple peer-to-peer video streaming application designed for local area networks (LAN) using WebRTC. Broadcast your webcam feed to another device on the same network without requiring a central server, ensuring low latency and privacy.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
